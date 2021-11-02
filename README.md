@@ -3,7 +3,7 @@
 and it will create subdirectory /Users/surjeet/Desktop/coding/githubTest/testrepo01
 
 1. Create file file01.txt and some content 
-2. commit those changes locally 
+2. commit those changes locally  git commit -m "commit message 01" .
 3. push those changes  remote 
 4. Create branch dev-branch  and make additional changes in file01.txt as well as create file file02.txt 
 5. Push those changes 
