@@ -1,5 +1,5 @@
 # testrepo01
- git clone https://skohli2000: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@github.com/skohli2000/testrepo01.git in the directory /Users/surjeet/Desktop/coding/githubTest/
+ git clone https://skohli2000:<yourToken>m@github.com/skohli2000/testrepo01.git in the directory /Users/surjeet/Desktop/coding/githubTest/
 and it will create subdirectory /Users/surjeet/Desktop/coding/githubTest/testrepo01
 
 1. Create file file01.txt and some content 
